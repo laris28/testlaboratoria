@@ -1,0 +1,6 @@
+.acertos, 
+.erros{
+    margin-top:top:4px;
+    display:inline-block;
+    border:2px solid black;
+}
